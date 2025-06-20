@@ -19,7 +19,7 @@
 ## 安装方法
 
 1. 确保已安装 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged)
-2. 将 `file_manager.py` 放入服务器的 `plugins` 文件夹
+2. 将 `FileManager.mcdr.` 放入服务器的 `plugins` 文件夹
 3. 重启服务器或使用 `!!MCDR plugin reload file_manager` 重载插件
 
 ### 输入!!fm显示帮助菜单
