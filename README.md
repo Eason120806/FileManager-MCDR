@@ -1,8 +1,8 @@
 
 # MCDR 文件管理器插件
 
-[![GitHub license](https://img.shields.io/github/license/yourname/file-manager)](https://github.com/yourname/file-manager/blob/main/LICENSE)
-![MCDReforged](https://img.shields.io/badge/MCDReforged-1.0%2B-blue)
+![License](https://img.shields.io/badge/License-GPLv3-blue)
+![MCDR](https://img.shields.io/badge/MCDR-2.1.0%2B-blue)
 
 一个功能强大的MCDR插件，允许管理员在Minecraft游戏中直接浏览、查看、编辑和删除服务器文件。
 
@@ -22,5 +22,5 @@
 2. 将 `file_manager.py` 放入服务器的 `plugins` 文件夹
 3. 重启服务器或使用 `!!MCDR plugin reload file_manager` 重载插件
 
-## 输入!!fm显示帮助菜单
+### 输入!!fm显示帮助菜单
 
