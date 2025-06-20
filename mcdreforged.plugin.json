@@ -1,0 +1,14 @@
+{
+    "id": "file_manager",
+    "version": "1.0.0",
+    "name": "FileManager",
+    "author": "Eason120806",
+    "link": "https://github.com/Eason120806/FileManager-MCDR/",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    },
+    "description": {
+        "zh_cn": "游戏内服务器文件管理器",
+        "en_us": "In-Game Server File Manager"
+    }
+}
