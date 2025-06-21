@@ -22,3 +22,4 @@ A powerful MCDR plugin that allows admins to browse, view, edit, and delete serv
 3. Restart server or reload plugin with `!!MCDR plugin reload file_manager`
 
 ### Type `!!fm` to display help menu
+### Due to chatbox mechanism issues, editing or previewing indented lines is not currently supported
